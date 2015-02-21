@@ -1,0 +1,19 @@
+{
+  "name": "algo-vis",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jeeyoungk/algo-viz",
+  "authors": [
+    "Jeeyoung Kim <jeeyoungk@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper": "0.9.20"
+  }
+}
